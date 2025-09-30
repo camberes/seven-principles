@@ -35,7 +35,7 @@ h2 {
 a {
     color: inherit;
     text-decoration: none;
-    background-color: #02347b4a;
+    background-color: #02347b2c;
     border-radius: 8px;
     padding: 2px 5px;
     font-style: normal;
@@ -44,5 +44,5 @@ a {
 
 a:hover {
     color: #8eb7b6;
-    background-color: #112f58cd;
+    background-color: #112f58b6;
 }
